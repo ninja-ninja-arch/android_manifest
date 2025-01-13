@@ -6,6 +6,11 @@
            revision="11"
            sync-j="8" />
 
+  <remote  name="banana"
+           fetch="https://github.com/CherishOS"
+           revision="eleven"
+           sync-j="8" />
+
   <remote  name="banana-gitlab"
            fetch="https://gitlab.com/bananadroid"
            revision="11" />
